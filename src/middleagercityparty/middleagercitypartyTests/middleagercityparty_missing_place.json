@@ -1,0 +1,956 @@
+{
+    "lastUpdated" : 0,
+    
+    "times":[
+             {
+             "note":"27.08.2016 14:00",
+             "startStamp":1472299200000,
+             "id":1
+             },
+             {
+             "note":"27.08.2016 15:00",
+             "startStamp":1472302800000,
+             "id":2
+             },
+             {
+             "note":"27.08.2016 15:30",
+             "startStamp":1472304600000,
+             "id":3
+             },
+             {
+             "note":"27.08.2016 15:45",
+             "startStamp":1472305500000,
+             "id":4
+             },
+             {
+             "note":"27.08.2016 16:30",
+             "startStamp":1472308200000,
+             "id":5
+             },
+             {
+             "note":"27.08.2016 17:00",
+             "startStamp":1472310000000,
+             "id":6
+             },
+             {
+             "note":"27.08.2016 17:15",
+             "startStamp":1472310900000,
+             "id":7
+             },
+             {
+             "note":"27.08.2016 17:45",
+             "startStamp":1472312700000,
+             "id":8
+             },
+             {
+             "note":"27.08.2016 18:00",
+             "startStamp":1472313600000,
+             "id":9
+             },
+             {
+             "note":"27.08.2016 18:45",
+             "startStamp":1472316300000,
+             "id":10
+             },
+             {
+             "note":"27.08.2016 19:30",
+             "startStamp":1472319000000,
+             "id":11
+             },
+             {
+             "note":"27.08.2016 19:45",
+             "startStamp":1472319900000,
+             "id":12
+             },
+             {
+             "note":"27.08.2016 20:15",
+             "startStamp":1472321700000,
+             "id":13
+             },
+             {
+             "note":"27.08.2016 20:30",
+             "startStamp":1472322600000,
+             "id":14
+             },
+             {
+             "note":"27.08.2016 21:00",
+             "startStamp":1472324400000,
+             "id":15
+             },
+             {
+             "note":"27.08.2016 21:30",
+             "startStamp":1472326200000,
+             "id":16
+             },
+             {
+             "note":"27.08.2016 21:45",
+             "startStamp":1472327100000,
+             "id":17
+             },
+             {
+             "note":"27.08.2016 22:15",
+             "startStamp":1472328900000,
+             "id":18
+             },
+             {
+             "note":"28.08.2016 10:00",
+             "startStamp":1472371200000,
+             "id":19
+             },
+             {
+             "note":"28.08.2016 11:00",
+             "startStamp":1472374800000,
+             "id":20
+             },
+             {
+             "note":"28.08.2016 11:45",
+             "startStamp":1472377500000,
+             "id":21
+             },
+             {
+             "note":"28.08.2016 12:30",
+             "startStamp":1472380200000,
+             "id":22
+             },
+             {
+             "note":"28.08.2016 13:00",
+             "startStamp":1472382000000,
+             "id":23
+             },
+             {
+             "note":"28.08.2016 13:15",
+             "startStamp":1472382900000,
+             "id":24
+             },
+             {
+             "note":"28.08.2016 14:00",
+             "startStamp":1472385600000,
+             "id":25
+             },
+             {
+             "note":"28.08.2016 14:45",
+             "startStamp":1472388300000,
+             "id":26
+             },
+             {
+             "note":"28.08.2016 15:00",
+             "startStamp":1472389200000,
+             "id":27
+             },
+             {
+             "note":"28.08.2016 15:30",
+             "startStamp":1472391000000,
+             "id":28
+             },
+             {
+             "note":"28.08.2016 16:15",
+             "startStamp":1472393700000,
+             "id":29
+             },
+             {
+             "note":"28.08.2016 17:00",
+             "startStamp":1472396400000,
+             "id":30
+             },
+             {
+             "note":"28.08.2016 18:00",
+             "startStamp":1472400000000,
+             "id":31
+             }
+             ],
+    "places":[
+              {
+              "name":"Neumarkt",
+              "index":1,
+              "lon":10.645367,
+              "id":1,
+              "type":"Stage",
+              "lat":51.108345
+              },
+              {
+              "name":"Schlosshof",
+              "index":3,
+              "lon":10.646352,
+              "id":3,
+              "type":"Stage",
+              "lat":51.109524
+              },
+              {
+              "name":"Schulplatz",
+              "index":4,
+              "lon":10.649432,
+              "id":4,
+              "type":"Stage",
+              "lat":51.108609
+              },
+              {
+              "name":"Kornmarkt",
+              "index":5,
+              "lon":10.647191,
+              "id":5,
+              "type":"Stage",
+              "lat":51.107516
+              },
+              {
+              "name":"Töpfermarkt",
+              "index":6,
+              "lon":10.648125,
+              "id":6,
+              "type":"Stage",
+              "lat":51.107664
+              },
+              {
+              "name":"Fried. Schlösschen",
+              "index":7,
+              "lon":10.650735,
+              "id":7,
+              "type":"Stage",
+              "lat":51.108639
+              },
+              {
+              "id" : 8,
+              "index" : 8,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.109869,
+              "lon" : 10.641557
+              },
+              {
+              "id" : 11,
+              "index" : 9,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.110705,
+              "lon" : 10.641165
+              },
+              {
+              "id" : 12,
+              "index" : 10,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.112778,
+              "lon" : 10.643249
+              },
+              {
+              "id" : 13,
+              "index" : 11,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.110673,
+              "lon" : 10.652071
+              },
+              {
+              "id" : 14,
+              "index" : 12,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.110110,
+              "lon" : 10.652301
+              },
+              {
+              "id" : 15,
+              "index" : 13,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.108558,
+              "lon" : 10.653238
+              }
+              ],
+    "shows":[
+             {
+             "name":"Einzug aller Akteure vom Rathaus zum Töpfermarkt mit anschließender Eröffnung",
+             "id":1,
+             "idTime":1
+             },
+             {
+             "idPlace":1,
+             "name":"Mittelalterliche Musik mit Spellbound",
+             "id":2,
+             "idTime":2
+             },
+             {
+             "idPlace":2,
+             "name":"Die Musikgruppe Exoriente stellt sich vor",
+             "id":3,
+             "idTime":2
+             },
+             {
+             "idPlace":3,
+             "name":"Gestelzte Töne mit Los Dilettantos",
+             "id":4,
+             "idTime":2
+             },
+             {
+             "idPlace":4,
+             "name":"Spielmannsgruppe Pampatut",
+             "id":5,
+             "idTime":2
+             },
+             {
+             "idPlace":5,
+             "name":"Fridolin Fadentüddel mit seinem Marionettentheater",
+             "id":6,
+             "idTime":2
+             },
+             {
+             "idPlace":6,
+             "name":"Abraxah - Stelzentheater mit Pferdeshow",
+             "id":7,
+             "idTime":2
+             },
+             {
+             "idPlace":1,
+             "name":"Gauklershow mit den Flugträumern",
+             "id":8,
+             "idTime":3
+             },
+             {
+             "idPlace":1,
+             "name":"Satolstelamanderfanz stellt sich vor",
+             "id":9,
+             "idTime":4
+             },
+             {
+             "idPlace":2,
+             "name":"\"Schneewittchen\" mit dem Theater Oberon",
+             "id":10,
+             "idTime":4
+             },
+             {
+             "idPlace":3,
+             "name":"Fabula aetatis spielen auf",
+             "id":11,
+             "idTime":4
+             },
+             {
+             "idPlace":4,
+             "name":"Die Musikgruppe Feuerdorn stellt sich vor",
+             "id":12,
+             "idTime":4
+             },
+             {
+             "idPlace":5,
+             "name":"Ritterkämpfe mit der Rittergruppe Herold",
+             "id":13,
+             "idTime":4
+             },
+             {
+             "idPlace":1,
+             "name":"Die hohe Minne - Musik auf Stelzen mit Los Dilettantos",
+             "id":14,
+             "idTime":5
+             },
+             {
+             "idPlace":2,
+             "name":"Mittelalterliche Klänge mit Exoriente",
+             "id":15,
+             "idTime":5
+             },
+             {
+             "idPlace":3,
+             "name":"\"Der fröhliche Tanzkreis\" mit gaudiorum circulus",
+             "id":16,
+             "idTime":5
+             },
+             {
+             "idPlace":4,
+             "name":"Spellbound spielt auf",
+             "id":17,
+             "idTime":5
+             },
+             {
+             "idPlace":5,
+             "name":"Märchenspiel mit dem Theater 3K",
+             "id":18,
+             "idTime":5
+             },
+             {
+             "idPlace":6,
+             "name":"Pferdeshow und Stelzentheater mit Abraxah",
+             "id":19,
+             "idTime":5
+             },
+             {
+             "idPlace":6,
+             "name":"Pampatut tut gut",
+             "id":20,
+             "idTime":6
+             },
+             {
+             "idPlace":2,
+             "name":"Liederreise mit dem Duo Thalamus",
+             "id":21,
+             "idTime":7
+             },
+             {
+             "idPlace":3,
+             "name":"Brachiale Klänge mit Fabula aetatis",
+             "id":22,
+             "idTime":7
+             },
+             {
+             "idPlace":4,
+             "name":"Mittelalterlische Modenschau",
+             "id":23,
+             "idTime":7
+             },
+             {
+             "idPlace":5,
+             "name":"Marionetten-Ritterturnier mit Fridolin Fadentüddel",
+             "id":24,
+             "idTime":7
+             },
+             {
+             "idPlace":6,
+             "name":"Das Spiel der Könige - ein lebendiges Schachspiel",
+             "id":25,
+             "idTime":8
+             },
+             {
+             "idPlace":1,
+             "name":"\"Schneewittchen\" mit dem Theater Oberon",
+             "id":26,
+             "idTime":9
+             },
+             {
+             "idPlace":2,
+             "name":"Mittelalterliche Klänge mit Satolstelamanderfanz",
+             "id":27,
+             "idTime":9
+             },
+             {
+             "idPlace":3,
+             "name":"\"Kommt ihr G´spielen\" mit gaudiorum circulus",
+             "id":28,
+             "idTime":9
+             },
+             {
+             "idPlace":4,
+             "name":"Feuerdorn spielt auf",
+             "id":29,
+             "idTime":9
+             },
+             {
+             "idPlace":5,
+             "name":"Ritterkämpfe",
+             "id":30,
+             "idTime":9
+             },
+             {
+             "idPlace":1,
+             "name":"Musik mit Spellbound",
+             "id":31,
+             "idTime":10
+             },
+             {
+             "idPlace":2,
+             "name":"Mittelalterliche Klänge mit Exoriente",
+             "id":32,
+             "idTime":10
+             },
+             {
+             "idPlace":3,
+             "name":"Musikalische Späße mit Los Dilettantos",
+             "id":33,
+             "idTime":10
+             },
+             {
+             "idPlace":4,
+             "name":"Trickreiche Jonglagen mit ConFilius",
+             "id":34,
+             "idTime":10
+             },
+             {
+             "idPlace":5,
+             "name":"Theaterspiel mit 3K",
+             "id":35,
+             "idTime":10
+             },
+             {
+             "idPlace":6,
+             "name":"Abraxahs Pferdeshow mit Stelzen",
+             "id":36,
+             "idTime":10
+             },
+             {
+             "idPlace":1,
+             "name":"Satolstelamanderfanz spielt auf",
+             "id":37,
+             "idTime":11
+             },
+             {
+             "idPlace":3,
+             "name":"Furunkulus, die Spielleute der Ewigkeit",
+             "id":38,
+             "idTime":11
+             },
+             {
+             "idPlace":5,
+             "name":"Mittelalterliche Klänge mit Kerbholtz",
+             "id":39,
+             "idTime":11
+             },
+             {
+             "idPlace":6,
+             "name":"2. Spiel der 5. Salzaer Spiele",
+             "id":40,
+             "idTime":11
+             },
+             {
+             "idPlace":4,
+             "name":"Exoriente spielen auf",
+             "id":41,
+             "idTime":12
+             },
+             {
+             "idPlace":1,
+             "name":"Geschichten mit Berholder, dem Erzähler",
+             "id":42,
+             "idTime":13
+             },
+             {
+             "idPlace":2,
+             "name":"Mittelalterliche Klänge mit Fabula aetatis",
+             "id":43,
+             "idTime":13
+             },
+             {
+             "idPlace":3,
+             "name":"\"Lieder zur Nacht\" mit gaudiorum circulus",
+             "id":44,
+             "idTime":13
+             },
+             {
+             "idPlace":4,
+             "name":"Musik mit Feuerdorn",
+             "id":45,
+             "idTime":13
+             },
+             {
+             "idPlace":5,
+             "name":"Marionettenspiel mit Fridolin Fadentüddel",
+             "id":46,
+             "idTime":13
+             },
+             {
+             "idPlace":6,
+             "name":"Akrobatik mit den Flugträumern",
+             "id":47,
+             "idTime":13
+             },
+             {
+             "idPlace":2,
+             "name":"Stelzentanz mit Blütenelfe und Traumelf",
+             "id":48,
+             "idTime":13
+             },
+             {
+             "idPlace":4,
+             "name":"ConFilius mit Gaukeley und Musica",
+             "id":49,
+             "idTime":13
+             },
+             {
+             "idPlace":5,
+             "name":"Ritterkämpfe mit der Rittergruppe Herold",
+             "id":50,
+             "idTime":13
+             },
+             {
+             "idPlace":1,
+             "name":"Konzert mit Spellbound",
+             "id":51,
+             "idTime":14
+             },
+             {
+             "idPlace":6,
+             "name":"Pampatut im Konzert",
+             "id":52,
+             "idTime":14
+             },
+             {
+             "idPlace":2,
+             "name":"Stelzentanz mit dem Duo Thalamus",
+             "id":53,
+             "idTime":15
+             },
+             {
+             "idPlace":3,
+             "name":"Musikalisches Intermezzo mit Los Dilettantos",
+             "id":54,
+             "idTime":15
+             },
+             {
+             "idPlace":4,
+             "name":"Stelzentanz mit Rubinia und Azul",
+             "id":55,
+             "idTime":15
+             },
+             {
+             "idPlace":5,
+             "name":"Nachtgeschichten mit Fridolin Fadentüddel",
+             "id":56,
+             "idTime":15
+             },
+             {
+             "idPlace":1,
+             "name":"Konzert mit Satolstelamanderfanz",
+             "id":57,
+             "idTime":16
+             },
+             {
+             "idPlace":6,
+             "name":"Nachtshow mit Abraxah und weißem Pferd",
+             "id":58,
+             "idTime":16
+             },
+             {
+             "idPlace":2,
+             "name":"Exoriente im Konzert",
+             "id":59,
+             "idTime":17
+             },
+             {
+             "idPlace":1,
+             "name":"Mystisches Feuerspektakel mit dem Duo Thalamus",
+             "id":60,
+             "idTime":18
+             },
+             {
+             "idPlace":3,
+             "name":"Konzert mit Fabula aetatis mit Feuershow von ConFilius",
+             "id":61,
+             "idTime":18
+             },
+             {
+             "idPlace":4,
+             "name":"Konzert mit Feuerdorn und Feuershow mit Oscula per Ignem",
+             "id":62,
+             "idTime":18
+             },
+             {
+             "idPlace":6,
+             "name":"Große Luft-Feuershow mit den Flugträumern",
+             "id":63,
+             "idTime":18
+             },
+             {
+             "idPlace":7,
+             "name":"Erlebnisspaziergang auf den Spuren der Hexen",
+             "id":64,
+             "idTime":19
+             },
+             {
+             "idPlace":1,
+             "name":"Mittelalterliche Klänge mit Satolstelamanderfanz",
+             "id":65,
+             "idTime":20
+             },
+             {
+             "idPlace":2,
+             "name":"\"Dornröschen\" mit dem Theater Oberon",
+             "id":66,
+             "idTime":20
+             },
+             {
+             "idPlace":3,
+             "name":"Pampatut tut gut",
+             "id":67,
+             "idTime":20
+             },
+             {
+             "idPlace":4,
+             "name":"Feuerdorn macht Musik",
+             "id":68,
+             "idTime":20
+             },
+             {
+             "idPlace":5,
+             "name":"Ritterturnier mit der Rittergruppe Herold",
+             "id":69,
+             "idTime":20
+             },
+             {
+             "idPlace":6,
+             "name":"Abraxah - Stelzentheater mit Pferdeshow",
+             "id":70,
+             "idTime":20
+             },
+             {
+             "idPlace":1,
+             "name":"Mittelalterliche Klänge mit Spellbound",
+             "id":71,
+             "idTime":21
+             },
+             {
+             "idPlace":2,
+             "name":"Musik mit Exoriente",
+             "id":72,
+             "idTime":21
+             },
+             {
+             "idPlace":3,
+             "name":"Fabula aetatis spielen auf",
+             "id":73,
+             "idTime":21
+             },
+             {
+             "idPlace":5,
+             "name":"Marionettenspiel mit Fridolin Fadentüddel",
+             "id":74,
+             "idTime":21
+             },
+             {
+             "idPlace":6,
+             "name":"Artistik mit den Flugträumern",
+             "id":75,
+             "idTime":21
+             },
+             {
+             "idPlace":1,
+             "name":"Trickreiche Jonglagen mit ConFilius",
+             "id":76,
+             "idTime":22
+             },
+             {
+             "idPlace":2,
+             "name":"Satolstelamanderfanz spielt auf",
+             "id":77,
+             "idTime":22
+             },
+             {
+             "idPlace":3,
+             "name":"\"Kommt ihr G´spielen\" mit gaudiorum circulus",
+             "id":78,
+             "idTime":22
+             },
+             {
+             "idPlace":4,
+             "name":"Musik mit Feuerdorn",
+             "id":79,
+             "idTime":22
+             },
+             {
+             "idPlace":5,
+             "name":"Ritterkämpfe",
+             "id":80,
+             "idTime":22
+             },
+             {
+             "idPlace":6,
+             "name":"Show der Flugträumer",
+             "id":81,
+             "idTime":23
+             },
+             {
+             "idPlace":1,
+             "name":"Mittelalterliche Klänge mit Spellbound",
+             "id":82,
+             "idTime":24
+             },
+             {
+             "idPlace":2,
+             "name":"Exoriente spielen auf",
+             "id":83,
+             "idTime":24
+             },
+             {
+             "idPlace":3,
+             "name":"Brachiale Klänge mit Fabula aetatis",
+             "id":84,
+             "idTime":24
+             },
+             {
+             "idPlace":4,
+             "name":"Musikalische Späße mit Los Dilettantos",
+             "id":85,
+             "idTime":24
+             },
+             {
+             "idPlace":5,
+             "name":"Fridolin Fadentüddel lässt seine Puppen tanzen",
+             "id":86,
+             "idTime":24
+             },
+             {
+             "idPlace":1,
+             "name":"Musik mit Satolstelamanderfanz",
+             "id":87,
+             "idTime":25
+             },
+             {
+             "idPlace":2,
+             "name":"ConFilius begeistern",
+             "id":88,
+             "idTime":25
+             },
+             {
+             "idPlace":3,
+             "name":"Musik und Späße mit Pampatut",
+             "id":89,
+             "idTime":25
+             },
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Modenschau",
+             "id":90,
+             "idTime":25
+             },
+             {
+             "idPlace":5,
+             "name":"Theaterspiel mit 3K",
+             "id":91,
+             "idTime":25
+             },
+             {
+             "idPlace":6,
+             "name":"Das Spiel der Könige - ein lebendiges Schachspiel",
+             "id":92,
+             "idTime":25
+             },
+             {
+             "idPlace":1,
+             "name":"Kreistänze und Musica mit dem Duo Thalamus",
+             "id":93,
+             "idTime":26
+             },
+             {
+             "idPlace":2,
+             "name":"Spellbound spielt auf",
+             "id":94,
+             "idTime":26
+             },
+             {
+             "idPlace":3,
+             "name":"Mittelalterliche Klänge mit Fabula aetatis",
+             "id":95,
+             "idTime":26
+             },
+             {
+             "idPlace":4,
+             "name":"Los Dilettantos Musikalisches Intermezzo",
+             "id":96,
+             "idTime":26
+             },
+             {
+             "idPlace":5,
+             "name":"Marionettenspiel mit Fridolin Fadentüddel",
+             "id":97,
+             "idTime":26
+             },
+             {
+             "idPlace":6,
+             "name":"Abraxah - Stelzentheater mit Pferdeshow",
+             "id":98,
+             "idTime":27
+             },
+             {
+             "idPlace":1,
+             "name":"Satolstelamanderfanz spielen auf",
+             "id":99,
+             "idTime":28
+             },
+             {
+             "idPlace":2,
+             "name":"Dornröschen, gespielt vom Theater Oberon",
+             "id":100,
+             "idTime":28
+             },
+             {
+             "idPlace":3,
+             "name":"\"Der fröhliche Tanzkreis\" mit gaudiorum circulus",
+             "id":101,
+             "idTime":28
+             },
+             {
+             "idPlace":4,
+             "name":"Poetische Jonglage und Musik mit ConFilius",
+             "id":102,
+             "idTime":28
+             },
+             {
+             "idPlace":5,
+             "name":"Theaterspiel mit 3K",
+             "id":103,
+             "idTime":28
+             },
+             {
+             "idPlace":6,
+             "name":"Artistik mit den Flugträumern",
+             "id":104,
+             "idTime":28
+             },
+             {
+             "idPlace":1,
+             "name":"Mittelalterliche Klänge mit Spellbound",
+             "id":105,
+             "idTime":29
+             },
+             {
+             "idPlace":2,
+             "name":"Musik mit Exoriente",
+             "id":106,
+             "idTime":29
+             },
+             {
+             "idPlace":3,
+             "name":"Fabula aetatis spielen auf",
+             "id":107,
+             "idTime":29
+             },
+             {
+             "idPlace":4,
+             "name":"Feuerdorn",
+             "id":108,
+             "idTime":29
+             },
+             {
+             "idPlace":5,
+             "name":"Ritterturnier",
+             "id":109,
+             "idTime":29
+             },
+             {
+             "idPlace":1,
+             "name":"Amu der Phönix auf Stelzen",
+             "id":110,
+             "idTime":30
+             },
+             {
+             "idPlace":2,
+             "name":"Thalamus mit Musik zum Tanzen und Lauschen",
+             "id":111,
+             "idTime":30
+             },
+             {
+             "idPlace":3,
+             "name":"\"Kommt ihr G´spielen\" mit gaudiorum circulus",
+             "id":112,
+             "idTime":30
+             },
+             {
+             "idPlace":4,
+             "name":"Abraxah - Stelzentheater mit Pferdeshow",
+             "id":113,
+             "idTime":30
+             },
+             {
+             "idPlace":5,
+             "name":"Fridolin Fadentüddel lässt seine Marionetten tanzen",
+             "id":114,
+             "idTime":30
+             },
+             {
+             "idPlace":6,
+             "name":"Großes Abschlussspektakel",
+             "id":115,
+             "idTime":30
+             },
+             {
+             "idPlace":6,
+             "name":"Auszug aller Gaukler, Musikanten, Ritter und Spielleute",
+             "id":116,
+             "idTime":31
+             }
+             ]
+}

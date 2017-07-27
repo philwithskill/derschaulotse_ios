@@ -1,0 +1,71 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html,body {
+	height:100%;
+}
+.special,.special .container .jumbotron {
+	height:100%;
+	line-height: 100%;
+		
+	background: url(../assets/jumbotron_background.jpg) no-repeat center center fixed;	
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+#logo-img{
+	height: 100%;
+	display: table;
+}
+
+#logo-img-inner{
+	display: table-cell;
+    vertical-align: middle;
+}
+
+h1 {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+h2 {
+	margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.gd-container {
+	text-align: justify;
+}
+
+
+.gd-banner {
+    padding-top: 120px;
+    text-align: center;
+}
+
+.gd-button-submit {
+	float: left;
+	margin-right: 10px;
+}
+
+.gd-thanks {
+	display: none;
+	padding-top: 7px;
+	padding-left: 5px;"
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+framework module Pods_middleagercityparty {
+  umbrella header "Pods-middleagercityparty-umbrella.h"
+
+  export *
+  module * { export * }
+}

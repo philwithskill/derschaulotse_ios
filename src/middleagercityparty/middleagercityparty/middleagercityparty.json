@@ -1,0 +1,1142 @@
+{
+    "lastUpdated" : 2,
+    
+    "times":[
+             {
+             "note":"Samstag, 26. August 2017 14:00:00",
+             "startStamp":1503748800000,
+             "id":1
+             },
+             {
+             "note":"Samstag, 26. August 2017 15:00:00",
+             "startStamp":1503752400000,
+             "id":2
+             },
+             {
+             "note":"Samstag, 26. August 2017 15:30:00",
+             "startStamp":1503754200000,
+             "id":3
+             },
+             {
+             "note":"Samstag, 26. August 2017 15:45:00",
+             "startStamp":1503755100000,
+             "id":4
+             },
+             {
+             "note":"Samstag, 26. August 2017 16:15:00",
+             "startStamp":1503756900000,
+             "id":5
+             },
+             {
+             "note":"Samstag, 26. August 2017 16:30:00",
+             "startStamp":1503757800000,
+             "id":6
+             },
+             {
+             "note":"Samstag, 26. August 2017 16:45:00",
+             "startStamp":1503758700000,
+             "id":7
+             },
+             {
+             "note":"Samstag, 26. August 2017 17:15:00",
+             "startStamp":1503760500000,
+             "id":8
+             },
+             {
+             "note":"Samstag, 26. August 2017 17:30:00",
+             "startStamp":1503761400000,
+             "id":9
+             },
+             {
+             "note":"Samstag, 26. August 2017 18:00:00",
+             "startStamp":1503763200000,
+             "id":10
+             },
+             {
+             "note":"Samstag, 26. August 2017 18:15:00",
+             "startStamp":1503764100000,
+             "id":11
+             },
+             {
+             "note":"Samstag, 26. August 2017 18:45:00",
+             "startStamp":1503765900000,
+             "id":36
+             },
+             {
+             "note":"Samstag, 26. August 2017 19:00:00",
+             "startStamp":1503766800000,
+             "id":12
+             },
+             {
+             "note":"Samstag, 26. August 2017 19:30:00",
+             "startStamp":1503768600000,
+             "id":13
+             },
+             {
+             "note":"Samstag, 26. August 2017 20:00:00",
+             "startStamp":1503770400000,
+             "id":14
+             },
+             {
+             "note":"Samstag, 26. August 2017 20:15:00",
+             "startStamp":1503771300000,
+             "id":15
+             },
+             {
+             "note":"Samstag, 26. August 2017 21:00:00",
+             "startStamp":1503774000000,
+             "id":16
+             },
+             {
+             "note":"Samstag, 26. August 2017 21:30:00",
+             "startStamp":1503775800000,
+             "id":17
+             },
+             {
+             "note":"Samstag, 26. August 2017 21:45:00",
+             "startStamp":1503776700000,
+             "id":18
+             },
+             {
+             "note":"Samstag, 26. August 2017 22:30:00",
+             "startStamp":1503779400000,
+             "id":19
+             },
+             {
+             "note":"Samstag, 26. August 2017 22:45:00",
+             "startStamp":1503780300000,
+             "id":20
+             },
+             {
+             "note":"Sonntag, 27. August 2017 11:00:00",
+             "startStamp":1503824400000,
+             "id":21
+             },
+             {
+             "note":"Sonntag, 27. August 2017 11:45:00",
+             "startStamp":1503827100000,
+             "id":22
+             },
+             {
+             "note":"Sonntag, 27. August 2017 12:15:00",
+             "startStamp":1503828900000,
+             "id":23
+             },
+             {
+             "note":"Sonntag, 27. August 2017 12:30:00",
+             "startStamp":1503829800000,
+             "id":24
+             },
+             {
+             "note":"Sonntag, 27. August 2017 13:00:00",
+             "startStamp":1503831600000,
+             "id":25
+             },
+             {
+             "note":"Sonntag, 27. August 2017 13:15:00",
+             "startStamp":1503832500000,
+             "id":26
+             },
+             {
+             "note":"Sonntag, 27. August 2017 14:00:00",
+             "startStamp":1503835200000,
+             "id":27
+             },
+             {
+             "note":"Sonntag, 27. August 2017 14:15:00",
+             "startStamp":1503836100000,
+             "id":28
+             },
+             {
+             "note":"Sonntag, 27. August 2017 14:30:00",
+             "startStamp":1503837000000,
+             "id":29
+             },
+             {
+             "note":"Sonntag, 27. August 2017 14:45:00",
+             "startStamp":1503837900000,
+             "id":30
+             },
+             {
+             "note":"Sonntag, 27. August 2017 15:00:00",
+             "startStamp":1503838800000,
+             "id":31
+             },
+             {
+             "note":"Sonntag, 27. August 2017 15:30:00",
+             "startStamp":1503840600000,
+             "id":32
+             },
+             {
+             "note":"Sonntag, 27. August 2017 16:15:00",
+             "startStamp":1503843300000,
+             "id":33
+             },
+             {
+             "note":"Sonntag, 27. August 2017 17:00:00",
+             "startStamp":1503846000000,
+             "id":34
+             },
+             {
+             "note":"Sonntag, 27. August 2017 18:00:00",
+             "startStamp":1503849600000,
+             "id":35
+             }
+             ],
+    "places":[
+              {
+              "name":"Neumarkt",
+              "index":1,
+              "lon":10.645367,
+              "id":1,
+              "type":"Stage",
+              "lat":51.108345
+              },
+              {
+              "name":"Marktkirche",
+              "index":2,
+              "lon":10.648126,
+              "id":2,
+              "type":"Stage",
+              "lat":51.108199
+              },
+              {
+              "name":"Schlosshof",
+              "index":3,
+              "lon":10.646352,
+              "id":3,
+              "type":"Stage",
+              "lat":51.109524
+              },
+              {
+              "name":"Schulplatz",
+              "index":4,
+              "lon":10.649432,
+              "id":4,
+              "type":"Stage",
+              "lat":51.108609
+              },
+              {
+              "name":"Kornmarkt",
+              "index":5,
+              "lon":10.647191,
+              "id":5,
+              "type":"Stage",
+              "lat":51.107516
+              },
+              {
+              "name":"Töpfermarkt",
+              "index":6,
+              "lon":10.648125,
+              "id":6,
+              "type":"Stage",
+              "lat":51.107664
+              },
+              {
+              "name":"Fried. Schlösschen",
+              "index":7,
+              "lon":10.650735,
+              "id":7,
+              "type":"Stage",
+              "lat":51.108639
+              },
+              {
+              "id" : 8,
+              "index" : 8,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.109869,
+              "lon" : 10.641557
+              },
+              {
+              "id" : 11,
+              "index" : 9,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.110705,
+              "lon" : 10.641165
+              },
+              {
+              "id" : 12,
+              "index" : 10,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.112778,
+              "lon" : 10.643249
+              },
+              {
+              "id" : 13,
+              "index" : 11,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.110673,
+              "lon" : 10.652071
+              },
+              {
+              "id" : 14,
+              "index" : 12,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.110110,
+              "lon" : 10.652301
+              },
+              {
+              "id" : 15,
+              "index" : 13,
+              "type" : "ParkingArea",
+              "name" : "Parkplatz",
+              "lat" : 51.108558,
+              "lon" : 10.653238
+              }
+              ],
+    "shows":[
+             {
+             "name":"Einzug aller Akteure vom Rathaus zum Töpfermarkt mit anschließender Eröffnung",
+             "id":1,
+             "idTime":1
+             },
+             {
+             "idPlace":1,
+             "name":"Mittelalterliche Musik mit Spellbound",
+             "id":2,
+             "idTime":2
+             },
+             {
+             "idPlace":2,
+             "name":"Die Musikgruppe Rebule stellt sich vor",
+             "id":3,
+             "idTime":2
+             },
+             {
+             "idPlace":3,
+             "name":"Stelzenshow mit dem Theater Federgeist",
+             "id":4,
+             "idTime":2
+             },
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Klänge mit De Twej",
+             "id":5,
+             "idTime":2
+             },
+             {
+             "idPlace":5,
+             "name":"Hexenzauber mit Chibraxa",
+             "id":6,
+             "idTime":2
+             },
+             {
+             "idPlace":6,
+             "name":"Stelzentanz mit Mira Mas",
+             "id":7,
+             "idTime":2
+             },
+             
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"Theaterspiel \"Tannhäuser - Tag der Abrechung\"",
+             "id":8,
+             "idTime":3
+             },
+             {
+             "idPlace":3,
+             "name":"Corvus Corax spielen auf",
+             "id":9,
+             "idTime":3
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Gauklerduo Basseltan stellt sich vor",
+             "id":10,
+             "idTime":4
+             },
+             {
+             "idPlace":2,
+             "name":"Mittelalterliche Klänge mit den Rabenbrüdern",
+             "id":11,
+             "idTime":4
+             },
+             {
+             "idPlace":4,
+             "name":"Die Musikgruppe JOYOSA stellt sich vor",
+             "id":12,
+             "idTime":4
+             },
+             {
+             "idPlace":5,
+             "name":"Spielmann Schabernackrakeel",
+             "id":13,
+             "idTime":4
+             },
+             
+             
+             
+             
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Führung durch die Stadt",
+             "id":14,
+             "idTime":5
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Tancredo und Lothar, die Spielleute aus dem Norden",
+             "id":15,
+             "idTime":6
+             },
+             {
+             "idPlace":2,
+             "name":"Mittelalterliche Klänge mit Rebule",
+             "id":16,
+             "idTime":6
+             },
+             {
+             "idPlace":3,
+             "name":"\"Der fröhliche Tanzkreis\" mit gaudiorum circulus",
+             "id":17,
+             "idTime":6
+             },
+             {
+             "idPlace":4,
+             "name":"De Twej spielen auf",
+             "id":18,
+             "idTime":6
+             },
+             {
+             "idPlace":5,
+             "name":"Märchenspiel mit dem Theater 3K",
+             "id":19,
+             "idTime":6
+             },
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"Ritterkämpfe mit Freyschar zu Bokenrode",
+             "id":20,
+             "idTime":7
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Musik mit Spellbound",
+             "id":21,
+             "idTime":8
+             },
+             {
+             "idPlace":2,
+             "name":"Streitgespräch mit Martin Luther",
+             "id":22,
+             "idTime":8
+             },
+             {
+             "idPlace":3,
+             "name":"Brachiale Klänge mit Corvus Corax",
+             "id":23,
+             "idTime":8
+             },
+             {
+             "idPlace":4,
+             "name":"Zaubershow mit dem Theater Federgeist",
+             "id":24,
+             "idTime":8
+             },
+             {
+             "idPlace":5,
+             "name":"Hexenklamauk mit Chibraxa",
+             "id":25,
+             "idTime":8
+             },
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"\"Rumpelstilzchen\" - ein artistisch erzähltes Märchen mit Mira Mas",
+             "id":26,
+             "idTime":9
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Mittelalterliche Gaukelei mit Basseltan",
+             "id":27,
+             "idTime":10
+             },
+             {
+             "idPlace":2,
+             "name":"Musikalische Späße mit Tancredo und Lothar",
+             "id":28,
+             "idTime":10
+             },
+             {
+             "idPlace":3,
+             "name":"\"Kommt ihr G'spielen\" mit gaudiorum circulus",
+             "id":29,
+             "idTime":10
+             },
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Modenschau",
+             "id":30,
+             "idTime":10
+             },
+             {
+             "idPlace":5,
+             "name":"Narretei und Spiel mit Zeter und Mordio",
+             "id":31,
+             "idTime":10
+             },
+             
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"Pampatut tut gut",
+             "id":32,
+             "idTime":11
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Musik mit Spellbound",
+             "id":33,
+             "idTime":36
+             },
+             {
+             "idPlace":2,
+             "name":"Mittelalterliche Klänge mit Schabernackrakeel",
+             "id":34,
+             "idTime":36
+             },
+             {
+             "idPlace":3,
+             "name":"Stelzentanz mit Herrn Blüterich und Feromino",
+             "id":35,
+             "idTime":36
+             },
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Klänge mit De Twej",
+             "id":36,
+             "idTime":36
+             },
+             {
+             "idPlace":5,
+             "name":"Ritterkämpfe mit der Freyschar zu Bokenrode",
+             "id":37,
+             "idTime":36
+             },
+             
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"Mira Mas zeigt \"Rapunzel\" - ein luftartistisches Märchen",
+             "id":38,
+             "idTime":12
+             },
+             
+             
+             {
+             "idPlace":1,
+             "name":"Die Rabenbrüder spielen auf",
+             "id":39,
+             "idTime":13
+             },
+             {
+             "idPlace":2,
+             "name":"Tancredo und Lothar, die Spielleute aus dem Norden",
+             "id":40,
+             "idTime":13
+             },
+             {
+             "idPlace":3,
+             "name":"Mittelalterliche Klänge mit Corvus Corax",
+             "id":41,
+             "idTime":13
+             },
+             {
+             "idPlace":4,
+             "name":"Musik und Tanz mit JOYOSA",
+             "id":42,
+             "idTime":13
+             },
+             {
+             "idPlace":5,
+             "name":"Hexenzauber mit Chibraxa",
+             "id":43,
+             "idTime":13
+             },
+             
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"Theaterspiel \"Tannhäuser - Tag der Abrechung\"",
+             "id":44,
+             "idTime":14
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Basseltan begeistert",
+             "id":45,
+             "idTime":15
+             },
+             {
+             "idPlace":2,
+             "name":"Mittelalterliche Klänge mit Rebule",
+             "id":46,
+             "idTime":15
+             },
+             {
+             "idPlace":3,
+             "name":"Der Tanzkreis gaudiorum circulus lädt ein",
+             "id":47,
+             "idTime":15
+             },
+             {
+             "idPlace":4,
+             "name":"Schabernack mit Schabernackrakeel",
+             "id":48,
+             "idTime":15
+             },
+             {
+             "idPlace":5,
+             "name":"Theaterspiel mit 3K",
+             "id":49,
+             "idTime":15
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Stelzentanz mit Mira Mas",
+             "id":50,
+             "idTime":16
+             },
+             {
+             "idPlace":2,
+             "name":"Tancredo und Lothar",
+             "id":51,
+             "idTime":16
+             },
+             {
+             "idPlace":3,
+             "name":"Leuchtende Wünsche mit dem Stelzentheater Federgeist",
+             "id":52,
+             "idTime":16
+             },
+             {
+             "idPlace":5,
+             "name":"Feuerzauber mit der Hexe Chibraxa",
+             "id":53,
+             "idTime":16
+             },
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Musik mit De Twej",
+             "id":54,
+             "idTime":16
+             },
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"Konzert der Rabenbrüder",
+             "id":55,
+             "idTime":17
+             },
+             
+             
+             {
+             "idPlace":1,
+             "name":"Konzert mit Spellbound",
+             "id":56,
+             "idTime":18
+             },
+             {
+             "idPlace":2,
+             "name":"Rebule im Konzert",
+             "id":57,
+             "idTime":18
+             },
+             {
+             "idPlace":3,
+             "name":"Großes Konzert mit Corvus Corax",
+             "id":58,
+             "idTime":18
+             },
+             {
+             "idPlace":4,
+             "name":"Konzert mit JOYOSA",
+             "id":59,
+             "idTime":18
+             },
+             {
+             "idPlace":5,
+             "name":"Ritterkämpfe mit der Freyschar zu Bokenrode",
+             "id":60,
+             "idTime":18
+             },
+             
+             
+             
+             {
+             "idPlace":5,
+             "name":"Musik zur Nacht mit Schabernackrakeel",
+             "id":61,
+             "idTime":19
+             },
+             {
+             "idPlace":6,
+             "name":"Feuershow mit Mira Mas",
+             "id":62,
+             "idTime":19
+             },
+             
+             
+             {
+             "idPlace":1,
+             "name":"Feuershow mit Basseltan",
+             "id":636312,
+             "idTime":20
+             },
+             {
+             "idPlace":2,
+             "name":"Feuershow mit Chibraxa",
+             "id":63,
+             "idTime":20
+             },
+             {
+             "idPlace":4,
+             "name":"Feuershow mit JOYOSA",
+             "id":64,
+             "idTime":20
+             },
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Mittelalterliche Klänge mit Spellbound",
+             "id":65,
+             "idTime":21
+             },
+             {
+             "idPlace":2,
+             "name":"Schabernack mit Schabernackrakeel",
+             "id":66,
+             "idTime":21
+             },
+             {
+             "idPlace":3,
+             "name":"Corvus Corax spielen auf",
+             "id":67,
+             "idTime":21
+             },
+             {
+             "idPlace":4,
+             "name":"De Twej machen Musik",
+             "id":68,
+             "idTime":21
+             },
+             {
+             "idPlace":5,
+             "name":"Zaubershow mit dem Theater Federgeist",
+             "id":69,
+             "idTime":21
+             },
+             {
+             "idPlace":6,
+             "name":"Pampatut tut gut",
+             "id":70,
+             "idTime":21
+             },
+             
+             
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Gaukelei mit Basseltan",
+             "id":71,
+             "idTime":22
+             },
+             {
+             "idPlace":2,
+             "name":"Musik mit Rebule",
+             "id":72,
+             "idTime":22
+             },
+             {
+             "idPlace":3,
+             "name":"\"Kommt ihr G´spielen\" mit gaudiorum circulus",
+             "id":73,
+             "idTime":22
+             },
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Klänge mit JOYOSA",
+             "id":74,
+             "idTime":22
+             },
+             {
+             "idPlace":5,
+             "name":"Hexenklamauk mit Chibraxa",
+             "id":75,
+             "idTime":22
+             },
+             {
+             "idPlace":6,
+             "name":"Mira Mas präsentiert \"Rumpelstilzchen\" - ein artistisch erzähltes Märchen",
+             "id":76,
+             "idTime":22
+             },
+             
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"Ritterkämpfe mit der Freyschar zu Bokenrode",
+             "id":77,
+             "idTime":23
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"\"Mittelalterliche Klänge mit Spellbound",
+             "id":78,
+             "idTime":24
+             },
+             {
+             "idPlace":2,
+             "name":"Die Rabenbrüder spielen auf",
+             "id":79,
+             "idTime":24
+             },
+             {
+             "idPlace":3,
+             "name":"Stelzentanz mit dem Theater Federgeist",
+             "id":80,
+             "idTime":24
+             },
+             {
+             "idPlace":4,
+             "name":"Musik mit De Twej",
+             "id":81,
+             "idTime":24
+             },
+             {
+             "idPlace":5,
+             "name":"Späße und Narretei mit Tancredo und Lothar",
+             "id":82,
+             "idTime":24
+             },
+             
+             
+             
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"Theaterspiel \"Tannhäuser - Tag der Abrechung\"",
+             "id":83,
+             "idTime":25
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Basseltan sind zu erleben",
+             "id":84,
+             "idTime":26
+             },
+             {
+             "idPlace":2,
+             "name":"Rebule spielen auf",
+             "id":85,
+             "idTime":26
+             },
+             {
+             "idPlace":3,
+             "name":"Brachiale Klänge mit Corvus Corax",
+             "id":86,
+             "idTime":26
+             },
+             {
+             "idPlace":4,
+             "name":"Musik mit JOYOSA",
+             "id":87,
+             "idTime":26
+             },
+             {
+             "idPlace":5,
+             "name":"Hexenzauber mit Chibraxa",
+             "id":88,
+             "idTime":26
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Musik der Rabenbrüder",
+             "id":89,
+             "idTime":27
+             },
+             {
+             "idPlace":2,
+             "name":"Musik und Späße mit Tancredo und Lothar",
+             "id":90,
+             "idTime":27
+             },
+             {
+             "idPlace":3,
+             "name":"\"Der fröhliche Tanzkreis\" mit gaudiorum circulus",
+             "id":91,
+             "idTime":27
+             },
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Führung durch die Stadt.",
+             "id":92,
+             "idTime":27
+             },
+             {
+             "idPlace":5,
+             "name":"Geschichten aus dem Elfenwald mit dem Theater Federgeist",
+             "id":93,
+             "idTime":27
+             },
+             
+             
+             
+             
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Modenschau",
+             "id":94,
+             "idTime":28
+             },
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"\"Rapunzel\" - ein luftartistisches Märchen mit Mira Mas",
+             "id":95,
+             "idTime":29
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Spellbound spielt auf",
+             "id":96,
+             "idTime":30
+             },
+             {
+             "idPlace":3,
+             "name":"Mittelalterliche Klänge mit Corvus Corax",
+             "id":97,
+             "idTime":30
+             },
+             {
+             "idPlace":4,
+             "name":"Musik mit De Twej",
+             "id":98,
+             "idTime":30
+             },
+             {
+             "idPlace":5,
+             "name":"Theaterspiel mit 3K",
+             "id":99,
+             "idTime":30
+             },
+             
+             
+             
+             
+             {
+             "idPlace":2,
+             "name":"Streitgespräch mit Martin Luther",
+             "id":100,
+             "idTime":31
+             },
+             {
+             "idPlace":6,
+             "name":"Ritterkämpfe mit Freyschar zu Bokenrode",
+             "id":101,
+             "idTime":31
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Die Rabenbrüder spielen auf",
+             "id":102,
+             "idTime":32
+             },
+             {
+             "idPlace":2,
+             "name":"Gaukelei und Narretei mit Basseltan",
+             "id":103,
+             "idTime":32
+             },
+             {
+             "idPlace":3,
+             "name":"\"Kommt ihr G'spielen\" mit gaudiorum circulus",
+             "id":104,
+             "idTime":32
+             },
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Musik mit JOYOSA",
+             "id":105,
+             "idTime":32
+             },
+             {
+             "idPlace":5,
+             "name":"Hexenklamauk mit Chibraxa",
+             "id":106,
+             "idTime":32
+             },
+             {
+             "idPlace":6,
+             "name":"Theaterspiel \"Tannhäuser - Tag der Abrechung\"",
+             "id":107,
+             "idTime":32
+             },
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Mittelalterliche Klänge mit Spellbound",
+             "id":108,
+             "idTime":33
+             },
+             {
+             "idPlace":2,
+             "name":"Musik mit Rebule",
+             "id":109,
+             "idTime":33
+             },
+             {
+             "idPlace":3,
+             "name":"Corvus Corax spielen auf",
+             "id":110,
+             "idTime":33
+             },
+             {
+             "idPlace":4,
+             "name":"Musik zum Lauschen mit De Twej",
+             "id":111,
+             "idTime":33
+             },
+             {
+             "idPlace":5,
+             "name":"Theaterspiel mit 3K",
+             "id":112,
+             "idTime":33
+             },
+             
+             
+             
+             
+             {
+             "idPlace":1,
+             "name":"Tancredo und Lothar, die Spielleute aus dem Norden",
+             "id":113,
+             "idTime":34
+             },
+             {
+             "idPlace":2,
+             "name":"Gaukelei mit Basseltan",
+             "id":114,
+             "idTime":34
+             },
+             {
+             "idPlace":3,
+             "name":"Stelzentanz mit dem Theater Federgeist",
+             "id":115,
+             "idTime":34
+             },
+             {
+             "idPlace":4,
+             "name":"Mittelalterliche Klänge mit JOYOSA",
+             "id":116,
+             "idTime":34
+             },
+             {
+             "idPlace":5,
+             "name":"Ritterkämpfe mit dem Freyschar zu Bokenrode",
+             "id":117,
+             "idTime":34
+             },
+             {
+             "idPlace":6,
+             "name":"Großes Abschlussspektakel",
+             "id":118,
+             "idTime":34
+             },
+             
+             
+             
+             
+             
+             {
+             "idPlace":6,
+             "name":"Auszug aller Akteure aus der Stadt",
+             "id":119,
+             "idTime":35
+             }
+             ]
+}

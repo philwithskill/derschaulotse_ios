@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  middleagercityparty
+
+  Created by Philipp Faßheber on 31/10/16.
+  Copyright © 2016 Philipp Faßheber. All rights reserved.
+*/
+
+"Schaulotse" = "Schaulotse";
+"Shows" = "Aufführungen";
+"Places" = "Lageplan";
+"Imprint" = "Die Entwickler";
+"ReminderAlertTitle" = "Erinnerung an Aufführungen";
+"ReminderAlertFirstMessage" = "Der Schaulotse möchte dich an Aufführungen erinnern. Bitte erlaube der App folgend dir Mitteilungen zu senden.";
+"ReminderAlertMessage" = "Der Schaulotse möchte dich an Aufführungen erinnern. Bitte erlaube der App in den Einstellungen dir Mitteilungen zu senden.";
+"ReminderAlertButtonOK" = "OK";
+"ReminderNotificationTitle" = "Aufführung";
+"ReminderNotificationMessageFormat" = "beginnt auf";
+"ReminderNotificationMessageNoStageFormat" = "beginnt jeden Augenblick.";
