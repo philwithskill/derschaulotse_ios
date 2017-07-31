@@ -262,7 +262,7 @@
 		99058E5E1F2BAF2000550F2A /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		99058E601F2BAF2000550F2A /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
 		99058E621F2BAF2000550F2A /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
-		99058E641F2BAF2000550F2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		99058E641F2BAF2000550F2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../middleagercityparty-watchos Extension/Assets.xcassets"; sourceTree = "<group>"; };
 		99058E661F2BAF2000550F2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		99058E721F2BB41000550F2A /* middleagercityparty-watchos-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "middleagercityparty-watchos-Bridging-Header.h"; sourceTree = "<group>"; };
 		99058E731F2BB41000550F2A /* GDWatchShowTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GDWatchShowTableViewCell.swift; sourceTree = "<group>"; };
@@ -457,6 +457,7 @@
 		17BBA08E1DA8F05E005EED67 /* MiddleagercitypartyUITests */ = {
 			isa = PBXGroup;
 			children = (
+				99058E641F2BAF2000550F2A /* Assets.xcassets */,
 				17BBA08F1DA8F05E005EED67 /* middleagercitypartyUITests.swift */,
 				17BBA0911DA8F05E005EED67 /* Info.plist */,
 			);
@@ -559,7 +560,6 @@
 				990DA4EB1F2FB7CE000BF820 /* Utils */,
 				99058E791F2BB60C00550F2A /* Controller */,
 				99058E5E1F2BAF2000550F2A /* ExtensionDelegate.swift */,
-				99058E641F2BAF2000550F2A /* Assets.xcassets */,
 				99058E661F2BAF2000550F2A /* Info.plist */,
 				99058E5A1F2BAF2000550F2A /* Supporting Files */,
 				99058E721F2BB41000550F2A /* middleagercityparty-watchos-Bridging-Header.h */,
