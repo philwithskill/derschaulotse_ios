@@ -41,7 +41,7 @@ class TimeUtil {
     static func containsCurrentTime(_ times: [GDTime]) -> GDTime? {
         let curr = Date().timeIntervalSince1970
         
-        for var i in 0 ..< (times.count - 1) {
+        for i in 0 ..< (times.count - 1) {
             let first = times[i]
             let second = times[i + 1]
             

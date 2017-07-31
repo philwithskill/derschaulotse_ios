@@ -79,6 +79,42 @@
 		17E08F691E06E3CD00236B52 /* GDReminderStateIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E08F681E06E3CD00236B52 /* GDReminderStateIcon.swift */; };
 		17FDC3F61E1A869700D0493F /* ShrinkAnimationStep.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FDC3F51E1A869700D0493F /* ShrinkAnimationStep.swift */; };
 		17FDC3F81E1A86EE00D0493F /* ReAlignAnimationStep.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FDC3F71E1A86EE00D0493F /* ReAlignAnimationStep.swift */; };
+		99058E4D1F2BAF1F00550F2A /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99058E4B1F2BAF1F00550F2A /* Interface.storyboard */; };
+		99058E4F1F2BAF1F00550F2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99058E4E1F2BAF1F00550F2A /* Assets.xcassets */; };
+		99058E561F2BAF2000550F2A /* middleagercityparty-watchos Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 99058E551F2BAF2000550F2A /* middleagercityparty-watchos Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		99058E5D1F2BAF2000550F2A /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99058E5C1F2BAF2000550F2A /* InterfaceController.swift */; };
+		99058E5F1F2BAF2000550F2A /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99058E5E1F2BAF2000550F2A /* ExtensionDelegate.swift */; };
+		99058E611F2BAF2000550F2A /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99058E601F2BAF2000550F2A /* NotificationController.swift */; };
+		99058E631F2BAF2000550F2A /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99058E621F2BAF2000550F2A /* ComplicationController.swift */; };
+		99058E651F2BAF2000550F2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99058E641F2BAF2000550F2A /* Assets.xcassets */; };
+		99058E691F2BAF2000550F2A /* middleagercityparty-watchos.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 99058E491F2BAF1F00550F2A /* middleagercityparty-watchos.app */; };
+		99058E741F2BB41000550F2A /* GDWatchShowTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99058E731F2BB41000550F2A /* GDWatchShowTableViewCell.swift */; };
+		99058E751F2BB41000550F2A /* GDWatchShowTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99058E731F2BB41000550F2A /* GDWatchShowTableViewCell.swift */; };
+		99058E771F2BB5E200550F2A /* GDWatchShowSectionTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99058E761F2BB5E200550F2A /* GDWatchShowSectionTableView.swift */; };
+		99058E781F2BB5E200550F2A /* GDWatchShowSectionTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99058E761F2BB5E200550F2A /* GDWatchShowSectionTableView.swift */; };
+		99058E7B1F2BB71200550F2A /* GDViewControllerDatasource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17873C6F1DD8A39600C8F337 /* GDViewControllerDatasource.swift */; };
+		99058E7C1F2BB71C00550F2A /* GDTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179FD62A1DAC093C0088FD8C /* GDTime.swift */; };
+		99058E7D1F2BB72000550F2A /* GDModelElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BBA09F1DA91182005EED67 /* GDModelElement.swift */; };
+		99058E7E1F2BB72800550F2A /* GDShow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1792D5991DA94BF900CFAD12 /* GDShow.swift */; };
+		99058E7F1F2BB72E00550F2A /* GDStage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1792D5911DA94B7C00CFAD12 /* GDStage.swift */; };
+		99058E801F2BB73700550F2A /* GDDay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1792D5971DA94BD400CFAD12 /* GDDay.swift */; };
+		99058E811F2BB73C00550F2A /* ModelUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796B7761DBCBF3800BE53B7 /* ModelUtil.swift */; };
+		99058E821F2BB7DC00550F2A /* GDSourceObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171573D71DC4F9C0009C2C4E /* GDSourceObserver.swift */; };
+		99058E831F2BB7E100550F2A /* GDSourceObserverProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171573D31DC4AF25009C2C4E /* GDSourceObserverProtocol.swift */; };
+		99058E841F2BBA5C00550F2A /* GDPlace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BBA0A21DA94600005EED67 /* GDPlace.swift */; };
+		99058E851F2BBCD200550F2A /* GDTimeDatasource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1701C2D21DE0AB26000AA0D2 /* GDTimeDatasource.swift */; };
+		99058E861F2BBCD700550F2A /* AbstractDatasource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796B7741DBCB17400BE53B7 /* AbstractDatasource.swift */; };
+		99058E871F2BBD2100550F2A /* GDJsonDatasource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1782F1211DBEA1B1009F69DC /* GDJsonDatasource.swift */; };
+		99058E881F2BBD2800550F2A /* GDMiddleagerDatabase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 170F2D791DC75100007BDE19 /* GDMiddleagerDatabase.swift */; };
+		99058E891F2BBED500550F2A /* TypeAliases.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D4662B1DB942D1006186B2 /* TypeAliases.swift */; };
+		99058E8A1F2BBEDE00550F2A /* GDParkingArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1792D5951DA94BA800CFAD12 /* GDParkingArea.swift */; };
+		99058E8B1F2BBEE600550F2A /* GDToilet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1792D5931DA94B9400CFAD12 /* GDToilet.swift */; };
+		99058E8C1F2BBEF100550F2A /* GDShowStageRelation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17085A041DBB9EDF001D4680 /* GDShowStageRelation.swift */; };
+		99058E8D1F2BBEFD00550F2A /* GDMiddleagerJsonParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D466151DB93CCA006186B2 /* GDMiddleagerJsonParser.swift */; };
+		99058E8E1F2BBF0A00550F2A /* GDShowTimeRelation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17085A061DBB9EF4001D4680 /* GDShowTimeRelation.swift */; };
+		99058E8F1F2BBF1900550F2A /* GDTransaction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796B7781DBD259900BE53B7 /* GDTransaction.swift */; };
+		99058E901F2BBF2100550F2A /* TimeUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D17DA71DDE558600A6A39C /* TimeUtil.swift */; };
+		99058E911F2BBF7300550F2A /* middleagercityparty.json in Resources */ = {isa = PBXBuildFile; fileRef = 17085A001DBB8DC0001D4680 /* middleagercityparty.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,7 +132,46 @@
 			remoteGlobalIDString = 17BBA0691DA8F05E005EED67;
 			remoteInfo = middleagercityparty;
 		};
+		99058E571F2BAF2000550F2A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 17BBA0621DA8F05E005EED67 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 99058E541F2BAF2000550F2A;
+			remoteInfo = "middleagercityparty-watchos Extension";
+		};
+		99058E671F2BAF2000550F2A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 17BBA0621DA8F05E005EED67 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 99058E481F2BAF1F00550F2A;
+			remoteInfo = "middleagercityparty-watchos";
+		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		99058E6F1F2BAF2000550F2A /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				99058E561F2BAF2000550F2A /* middleagercityparty-watchos Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		99058E711F2BAF2000550F2A /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				99058E691F2BAF2000550F2A /* middleagercityparty-watchos.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		110016E84777BE65E65E0C79 /* Pods-middleagercitypartyTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-middleagercitypartyTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-middleagercitypartyTests/Pods-middleagercitypartyTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -177,6 +252,21 @@
 		17FDC3F71E1A86EE00D0493F /* ReAlignAnimationStep.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReAlignAnimationStep.swift; sourceTree = "<group>"; };
 		69E95D1FDE0C1C3CE55D65E4 /* Pods-middleagercityparty.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-middleagercityparty.release.xcconfig"; path = "Pods/Target Support Files/Pods-middleagercityparty/Pods-middleagercityparty.release.xcconfig"; sourceTree = "<group>"; };
 		839B9603D083FDCB88F20991 /* Pods-middleagercitypartyTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-middleagercitypartyTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-middleagercitypartyTests/Pods-middleagercitypartyTests.debug.xcconfig"; sourceTree = "<group>"; };
+		99058E491F2BAF1F00550F2A /* middleagercityparty-watchos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "middleagercityparty-watchos.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		99058E4C1F2BAF1F00550F2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
+		99058E4E1F2BAF1F00550F2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		99058E501F2BAF1F00550F2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99058E551F2BAF2000550F2A /* middleagercityparty-watchos Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "middleagercityparty-watchos Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		99058E5B1F2BAF2000550F2A /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		99058E5C1F2BAF2000550F2A /* InterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterfaceController.swift; sourceTree = "<group>"; };
+		99058E5E1F2BAF2000550F2A /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
+		99058E601F2BAF2000550F2A /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
+		99058E621F2BAF2000550F2A /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
+		99058E641F2BAF2000550F2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		99058E661F2BAF2000550F2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99058E721F2BB41000550F2A /* middleagercityparty-watchos-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "middleagercityparty-watchos-Bridging-Header.h"; sourceTree = "<group>"; };
+		99058E731F2BB41000550F2A /* GDWatchShowTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GDWatchShowTableViewCell.swift; sourceTree = "<group>"; };
+		99058E761F2BB5E200550F2A /* GDWatchShowSectionTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GDWatchShowSectionTableView.swift; sourceTree = "<group>"; };
 		AE94BB948F1F241E74A3DC02 /* Pods-middleagercityparty.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-middleagercityparty.debug.xcconfig"; path = "Pods/Target Support Files/Pods-middleagercityparty/Pods-middleagercityparty.debug.xcconfig"; sourceTree = "<group>"; };
 		CB819B77452B511F5E6C8E5C /* Pods-middleagercitypartyUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-middleagercitypartyUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-middleagercitypartyUITests/Pods-middleagercitypartyUITests.release.xcconfig"; sourceTree = "<group>"; };
 		EBE3F743E4656DE7DDFC460E /* Pods-middleagercitypartyUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-middleagercitypartyUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-middleagercitypartyUITests/Pods-middleagercitypartyUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -198,6 +288,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		17BBA0881DA8F05E005EED67 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		99058E521F2BAF2000550F2A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -308,6 +405,8 @@
 				17BBA06C1DA8F05E005EED67 /* Middleagercityparty */,
 				17BBA0831DA8F05E005EED67 /* MiddleagercitypartyTests */,
 				17BBA08E1DA8F05E005EED67 /* MiddleagercitypartyUITests */,
+				99058E4A1F2BAF1F00550F2A /* Middleagercityparty-watchos */,
+				99058E591F2BAF2000550F2A /* Middleagercityparty-watchos Extension */,
 				17BBA06B1DA8F05E005EED67 /* Products */,
 				75BE17A906AD6F9BAB3D2D2E /* Pods */,
 			);
@@ -319,6 +418,8 @@
 				17BBA06A1DA8F05E005EED67 /* middleagercityparty.app */,
 				17BBA0801DA8F05E005EED67 /* middleagercitypartyTests.xctest */,
 				17BBA08B1DA8F05E005EED67 /* middleagercitypartyUITests.xctest */,
+				99058E491F2BAF1F00550F2A /* middleagercityparty-watchos.app */,
+				99058E551F2BAF2000550F2A /* middleagercityparty-watchos Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -441,6 +542,67 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		99058E4A1F2BAF1F00550F2A /* Middleagercityparty-watchos */ = {
+			isa = PBXGroup;
+			children = (
+				99058E4B1F2BAF1F00550F2A /* Interface.storyboard */,
+				99058E4E1F2BAF1F00550F2A /* Assets.xcassets */,
+				99058E501F2BAF1F00550F2A /* Info.plist */,
+			);
+			name = "Middleagercityparty-watchos";
+			path = "middleagercityparty-watchos";
+			sourceTree = "<group>";
+		};
+		99058E591F2BAF2000550F2A /* Middleagercityparty-watchos Extension */ = {
+			isa = PBXGroup;
+			children = (
+				990DA4EB1F2FB7CE000BF820 /* Utils */,
+				99058E791F2BB60C00550F2A /* Controller */,
+				99058E5E1F2BAF2000550F2A /* ExtensionDelegate.swift */,
+				99058E641F2BAF2000550F2A /* Assets.xcassets */,
+				99058E661F2BAF2000550F2A /* Info.plist */,
+				99058E5A1F2BAF2000550F2A /* Supporting Files */,
+				99058E721F2BB41000550F2A /* middleagercityparty-watchos-Bridging-Header.h */,
+			);
+			name = "Middleagercityparty-watchos Extension";
+			path = "middleagercityparty-watchos Extension";
+			sourceTree = "<group>";
+		};
+		99058E5A1F2BAF2000550F2A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				99058E5B1F2BAF2000550F2A /* PushNotificationPayload.apns */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		99058E791F2BB60C00550F2A /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				99058E7A1F2BB61700550F2A /* Show */,
+				99058E5C1F2BAF2000550F2A /* InterfaceController.swift */,
+				99058E601F2BAF2000550F2A /* NotificationController.swift */,
+				99058E621F2BAF2000550F2A /* ComplicationController.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		99058E7A1F2BB61700550F2A /* Show */ = {
+			isa = PBXGroup;
+			children = (
+				99058E731F2BB41000550F2A /* GDWatchShowTableViewCell.swift */,
+				99058E761F2BB5E200550F2A /* GDWatchShowSectionTableView.swift */,
+			);
+			name = Show;
+			sourceTree = "<group>";
+		};
+		990DA4EB1F2FB7CE000BF820 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Utils;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -455,10 +617,12 @@
 				173F163D1E3CC39B0002766B /* ShellScript */,
 				AAFE721F9F1731C0250F5717 /* [CP] Embed Pods Frameworks */,
 				4CDC530EFA0112F7A7C851B6 /* [CP] Copy Pods Resources */,
+				99058E711F2BAF2000550F2A /* Embed Watch Content */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				99058E681F2BAF2000550F2A /* PBXTargetDependency */,
 			);
 			name = middleagercityparty;
 			productName = middleagercityparty;
@@ -507,13 +671,47 @@
 			productReference = 17BBA08B1DA8F05E005EED67 /* middleagercitypartyUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		99058E481F2BAF1F00550F2A /* middleagercityparty-watchos */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 99058E701F2BAF2000550F2A /* Build configuration list for PBXNativeTarget "middleagercityparty-watchos" */;
+			buildPhases = (
+				99058E471F2BAF1F00550F2A /* Resources */,
+				99058E6F1F2BAF2000550F2A /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				99058E581F2BAF2000550F2A /* PBXTargetDependency */,
+			);
+			name = "middleagercityparty-watchos";
+			productName = "middleagercityparty-watchos";
+			productReference = 99058E491F2BAF1F00550F2A /* middleagercityparty-watchos.app */;
+			productType = "com.apple.product-type.application.watchapp2";
+		};
+		99058E541F2BAF2000550F2A /* middleagercityparty-watchos Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 99058E6E1F2BAF2000550F2A /* Build configuration list for PBXNativeTarget "middleagercityparty-watchos Extension" */;
+			buildPhases = (
+				99058E511F2BAF2000550F2A /* Sources */,
+				99058E521F2BAF2000550F2A /* Frameworks */,
+				99058E531F2BAF2000550F2A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "middleagercityparty-watchos Extension";
+			productName = "middleagercityparty-watchos Extension";
+			productReference = 99058E551F2BAF2000550F2A /* middleagercityparty-watchos Extension.appex */;
+			productType = "com.apple.product-type.watchkit2-extension";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
 		17BBA0621DA8F05E005EED67 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0800;
+				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "Philipp Faßheber";
 				TargetAttributes = {
@@ -531,6 +729,15 @@
 						CreatedOnToolsVersion = 8.0;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 17BBA0691DA8F05E005EED67;
+					};
+					99058E481F2BAF1F00550F2A = {
+						CreatedOnToolsVersion = 8.3.3;
+						LastSwiftMigration = 0830;
+						ProvisioningStyle = Automatic;
+					};
+					99058E541F2BAF2000550F2A = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -550,6 +757,8 @@
 				17BBA0691DA8F05E005EED67 /* middleagercityparty */,
 				17BBA07F1DA8F05E005EED67 /* middleagercitypartyTests */,
 				17BBA08A1DA8F05E005EED67 /* middleagercitypartyUITests */,
+				99058E481F2BAF1F00550F2A /* middleagercityparty-watchos */,
+				99058E541F2BAF2000550F2A /* middleagercityparty-watchos Extension */,
 			);
 		};
 /* End PBXProject section */
@@ -585,6 +794,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		99058E471F2BAF1F00550F2A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				99058E4F1F2BAF1F00550F2A /* Assets.xcassets in Resources */,
+				99058E4D1F2BAF1F00550F2A /* Interface.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		99058E531F2BAF2000550F2A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				99058E651F2BAF2000550F2A /* Assets.xcassets in Resources */,
+				99058E911F2BBF7300550F2A /* middleagercityparty.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -787,9 +1014,11 @@
 				17873C701DD8A39600C8F337 /* GDViewControllerDatasource.swift in Sources */,
 				1792D5941DA94B9400CFAD12 /* GDToilet.swift in Sources */,
 				17FDC3F81E1A86EE00D0493F /* ReAlignAnimationStep.swift in Sources */,
+				99058E741F2BB41000550F2A /* GDWatchShowTableViewCell.swift in Sources */,
 				1782F1221DBEA1B1009F69DC /* GDJsonDatasource.swift in Sources */,
 				17C1689C1E17B19800553B76 /* IconAnimationStep.swift in Sources */,
 				1708ED4D1E4F459D00C2307D /* GDPlaceDatasource.swift in Sources */,
+				99058E771F2BB5E200550F2A /* GDWatchShowSectionTableView.swift in Sources */,
 				17A795DF1DCA5FD80075E93E /* GDNavigationItem.swift in Sources */,
 				1792D5981DA94BD400CFAD12 /* GDDay.swift in Sources */,
 				17BBA06E1DA8F05E005EED67 /* AppDelegate.swift in Sources */,
@@ -823,6 +1052,41 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		99058E511F2BAF2000550F2A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				99058E611F2BAF2000550F2A /* NotificationController.swift in Sources */,
+				99058E7E1F2BB72800550F2A /* GDShow.swift in Sources */,
+				99058E7C1F2BB71C00550F2A /* GDTime.swift in Sources */,
+				99058E881F2BBD2800550F2A /* GDMiddleagerDatabase.swift in Sources */,
+				99058E821F2BB7DC00550F2A /* GDSourceObserver.swift in Sources */,
+				99058E7F1F2BB72E00550F2A /* GDStage.swift in Sources */,
+				99058E631F2BAF2000550F2A /* ComplicationController.swift in Sources */,
+				99058E8D1F2BBEFD00550F2A /* GDMiddleagerJsonParser.swift in Sources */,
+				99058E7D1F2BB72000550F2A /* GDModelElement.swift in Sources */,
+				99058E831F2BB7E100550F2A /* GDSourceObserverProtocol.swift in Sources */,
+				99058E841F2BBA5C00550F2A /* GDPlace.swift in Sources */,
+				99058E851F2BBCD200550F2A /* GDTimeDatasource.swift in Sources */,
+				99058E811F2BB73C00550F2A /* ModelUtil.swift in Sources */,
+				99058E891F2BBED500550F2A /* TypeAliases.swift in Sources */,
+				99058E751F2BB41000550F2A /* GDWatchShowTableViewCell.swift in Sources */,
+				99058E8A1F2BBEDE00550F2A /* GDParkingArea.swift in Sources */,
+				99058E871F2BBD2100550F2A /* GDJsonDatasource.swift in Sources */,
+				99058E861F2BBCD700550F2A /* AbstractDatasource.swift in Sources */,
+				99058E801F2BB73700550F2A /* GDDay.swift in Sources */,
+				99058E8C1F2BBEF100550F2A /* GDShowStageRelation.swift in Sources */,
+				99058E781F2BB5E200550F2A /* GDWatchShowSectionTableView.swift in Sources */,
+				99058E8B1F2BBEE600550F2A /* GDToilet.swift in Sources */,
+				99058E5F1F2BAF2000550F2A /* ExtensionDelegate.swift in Sources */,
+				99058E8F1F2BBF1900550F2A /* GDTransaction.swift in Sources */,
+				99058E7B1F2BB71200550F2A /* GDViewControllerDatasource.swift in Sources */,
+				99058E8E1F2BBF0A00550F2A /* GDShowTimeRelation.swift in Sources */,
+				99058E901F2BBF2100550F2A /* TimeUtil.swift in Sources */,
+				99058E5D1F2BAF2000550F2A /* InterfaceController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -835,6 +1099,16 @@
 			isa = PBXTargetDependency;
 			target = 17BBA0691DA8F05E005EED67 /* middleagercityparty */;
 			targetProxy = 17BBA08C1DA8F05E005EED67 /* PBXContainerItemProxy */;
+		};
+		99058E581F2BAF2000550F2A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 99058E541F2BAF2000550F2A /* middleagercityparty-watchos Extension */;
+			targetProxy = 99058E571F2BAF2000550F2A /* PBXContainerItemProxy */;
+		};
+		99058E681F2BAF2000550F2A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 99058E481F2BAF1F00550F2A /* middleagercityparty-watchos */;
+			targetProxy = 99058E671F2BAF2000550F2A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -853,6 +1127,14 @@
 				17BBA0791DA8F05E005EED67 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		99058E4B1F2BAF1F00550F2A /* Interface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				99058E4C1F2BAF1F00550F2A /* Base */,
+			);
+			name = Interface.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -1041,6 +1323,85 @@
 			};
 			name = Release;
 		};
+		99058E6A1F2BAF2000550F2A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = "";
+				IBSC_MODULE = middleagercityparty_watchos_Extension;
+				INFOPLIST_FILE = "middleagercityparty-watchos/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "middleagercityparty-watchos Extension/middleagercityparty-watchos-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 3.2;
+			};
+			name = Debug;
+		};
+		99058E6B1F2BAF2000550F2A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = "";
+				IBSC_MODULE = middleagercityparty_watchos_Extension;
+				INFOPLIST_FILE = "middleagercityparty-watchos/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "middleagercityparty-watchos Extension/middleagercityparty-watchos-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 3.2;
+			};
+			name = Release;
+		};
+		99058E6C1F2BAF2000550F2A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				INFOPLIST_FILE = "middleagercityparty-watchos Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 3.2;
+			};
+			name = Debug;
+		};
+		99058E6D1F2BAF2000550F2A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				INFOPLIST_FILE = "middleagercityparty-watchos Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 3.2;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1076,6 +1437,24 @@
 			buildConfigurations = (
 				17BBA09B1DA8F05E005EED67 /* Debug */,
 				17BBA09C1DA8F05E005EED67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		99058E6E1F2BAF2000550F2A /* Build configuration list for PBXNativeTarget "middleagercityparty-watchos Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				99058E6C1F2BAF2000550F2A /* Debug */,
+				99058E6D1F2BAF2000550F2A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		99058E701F2BAF2000550F2A /* Build configuration list for PBXNativeTarget "middleagercityparty-watchos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				99058E6A1F2BAF2000550F2A /* Debug */,
+				99058E6B1F2BAF2000550F2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
