@@ -34,7 +34,7 @@
                                     <group key="rootItem" width="1" height="0.0" alignment="left" spacing="6" id="WYt-5C-Jub">
                                         <items>
                                             <separator height="1" heightAdjustment="-4" alignment="left" verticalAlignment="center" id="LFp-qM-DuY">
-                                                <color key="color" red="0.89411764709999997" green="0.2901960784" blue="0.30196078430000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <color key="color" red="0.47450980392156861" green="0.33333333333333331" blue="0.28235294117647058" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             </separator>
                                             <group alignment="left" layout="vertical" id="OdX-KA-mc8">
                                                 <items>
