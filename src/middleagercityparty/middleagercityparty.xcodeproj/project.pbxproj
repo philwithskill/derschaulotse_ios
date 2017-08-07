@@ -717,7 +717,7 @@
 				TargetAttributes = {
 					17BBA0691DA8F05E005EED67 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = D2AFMTGP75;
+						DevelopmentTeam = AJP72Y44D7;
 						ProvisioningStyle = Automatic;
 					};
 					17BBA07F1DA8F05E005EED67 = {
@@ -732,11 +732,13 @@
 					};
 					99058E481F2BAF1F00550F2A = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = AJP72Y44D7;
 						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
 					99058E541F2BAF2000550F2A = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = AJP72Y44D7;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -1239,11 +1241,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = D2AFMTGP75;
+				DEVELOPMENT_TEAM = AJP72Y44D7;
 				INFOPLIST_FILE = middleagercityparty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty;
+				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -1255,11 +1257,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = D2AFMTGP75;
+				DEVELOPMENT_TEAM = AJP72Y44D7;
 				INFOPLIST_FILE = middleagercityparty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty;
+				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -1330,11 +1332,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = AJP72Y44D7;
 				IBSC_MODULE = middleagercityparty_watchos_Extension;
 				INFOPLIST_FILE = "middleagercityparty-watchos/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.ios.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -1353,11 +1355,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = AJP72Y44D7;
 				IBSC_MODULE = middleagercityparty_watchos_Extension;
 				INFOPLIST_FILE = "middleagercityparty-watchos/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.ios.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -1373,9 +1375,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				DEVELOPMENT_TEAM = AJP72Y44D7;
 				INFOPLIST_FILE = "middleagercityparty-watchos Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.ios.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -1390,9 +1393,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				DEVELOPMENT_TEAM = AJP72Y44D7;
 				INFOPLIST_FILE = "middleagercityparty-watchos Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = de.geekdevelopment.middleagercityparty.ios.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
