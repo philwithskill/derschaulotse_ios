@@ -1,0 +1,12 @@
+{
+  "supported complication families" : {
+    "7" : "6AD85C6B-D48F-4F9D-8E4E-316DE18B6498.json",
+    "3" : "7B8BB346-8600-41A5-AA2C-56D64E7DA459.json",
+    "4" : "16C726DF-79B8-4F70-80E9-D6AD8CB1EC17.json",
+    "0" : "3F9980B4-FCD0-45CF-8296-DE2C70F6A3F6.json",
+    "1" : "903E391B-E5D5-4FE9-B53D-48F122DE6D8A.json",
+    "6" : "4D6CDDD8-BB52-4A5E-82FA-FAA43397DCE7.json",
+    "2" : "EFC81271-4B96-45CB-9568-CC72F8B54454.json"
+  },
+  "client ID" : "de.geekdevelopment.middleagercityparty.ios.watchkitapp.watchkitextension"
+}

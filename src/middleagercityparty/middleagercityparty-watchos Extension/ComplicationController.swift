@@ -51,8 +51,6 @@ class ComplicationController: NSObject, CLKComplicationDataSource {
     func getLocalizableSampleTemplate(for complication: CLKComplication,
                                       withHandler handler: @escaping (CLKComplicationTemplate?) -> Void)
     {
-        print(complication.family)
-        
         switch complication.family
         {
         case .circularSmall:
@@ -71,10 +69,8 @@ class ComplicationController: NSObject, CLKComplicationDataSource {
         case .modularLarge:
             handler(nil)
         case .utilitarianLarge:
-            let utilitarianLargeTemplate = CLKComplicationTemplateUtilitarianLargeFlat()
-            utilitarianLargeTemplate.imageProvider = CLKImageProvider(onePieceImage: UIImage(named: "Complication/UtilitarianLarge")!)
-            utilitarianLargeTemplate.textProvider = CLKSimpleTextProvider(text: "Schaulotse")
-            handler(utilitarianLargeTemplate)
+
+            handler(nil)
         default:
             handler(nil)
         }
