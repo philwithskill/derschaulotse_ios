@@ -115,6 +115,7 @@
 		99058E8F1F2BBF1900550F2A /* GDTransaction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796B7781DBD259900BE53B7 /* GDTransaction.swift */; };
 		99058E901F2BBF2100550F2A /* TimeUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D17DA71DDE558600A6A39C /* TimeUtil.swift */; };
 		99058E911F2BBF7300550F2A /* middleagercityparty.json in Resources */ = {isa = PBXBuildFile; fileRef = 17085A001DBB8DC0001D4680 /* middleagercityparty.json */; };
+		99F82BAE1F3E2F77006B44BB /* watch.ckcomplication in Resources */ = {isa = PBXBuildFile; fileRef = 99F82BAD1F3E2F77006B44BB /* watch.ckcomplication */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -262,11 +263,12 @@
 		99058E5E1F2BAF2000550F2A /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		99058E601F2BAF2000550F2A /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
 		99058E621F2BAF2000550F2A /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
-		99058E641F2BAF2000550F2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../middleagercityparty-watchos Extension/Assets.xcassets"; sourceTree = "<group>"; };
+		99058E641F2BAF2000550F2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99058E661F2BAF2000550F2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		99058E721F2BB41000550F2A /* middleagercityparty-watchos-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "middleagercityparty-watchos-Bridging-Header.h"; sourceTree = "<group>"; };
 		99058E731F2BB41000550F2A /* GDWatchShowTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GDWatchShowTableViewCell.swift; sourceTree = "<group>"; };
 		99058E761F2BB5E200550F2A /* GDWatchShowSectionTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GDWatchShowSectionTableView.swift; sourceTree = "<group>"; };
+		99F82BAD1F3E2F77006B44BB /* watch.ckcomplication */ = {isa = PBXFileReference; lastKnownFileType = folder; path = watch.ckcomplication; sourceTree = "<group>"; };
 		AE94BB948F1F241E74A3DC02 /* Pods-middleagercityparty.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-middleagercityparty.debug.xcconfig"; path = "Pods/Target Support Files/Pods-middleagercityparty/Pods-middleagercityparty.debug.xcconfig"; sourceTree = "<group>"; };
 		CB819B77452B511F5E6C8E5C /* Pods-middleagercitypartyUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-middleagercitypartyUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-middleagercitypartyUITests/Pods-middleagercitypartyUITests.release.xcconfig"; sourceTree = "<group>"; };
 		EBE3F743E4656DE7DDFC460E /* Pods-middleagercitypartyUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-middleagercitypartyUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-middleagercitypartyUITests/Pods-middleagercitypartyUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -437,6 +439,7 @@
 				17BBA06D1DA8F05E005EED67 /* AppDelegate.swift */,
 				17BBA0761DA8F05E005EED67 /* Assets.xcassets */,
 				17BBA07B1DA8F05E005EED67 /* Info.plist */,
+				99F82BAD1F3E2F77006B44BB /* watch.ckcomplication */,
 			);
 			name = Middleagercityparty;
 			path = middleagercityparty;
@@ -457,7 +460,6 @@
 		17BBA08E1DA8F05E005EED67 /* MiddleagercitypartyUITests */ = {
 			isa = PBXGroup;
 			children = (
-				99058E641F2BAF2000550F2A /* Assets.xcassets */,
 				17BBA08F1DA8F05E005EED67 /* middleagercitypartyUITests.swift */,
 				17BBA0911DA8F05E005EED67 /* Info.plist */,
 			);
@@ -557,6 +559,7 @@
 		99058E591F2BAF2000550F2A /* Middleagercityparty-watchos Extension */ = {
 			isa = PBXGroup;
 			children = (
+				99058E641F2BAF2000550F2A /* Assets.xcassets */,
 				990DA4EB1F2FB7CE000BF820 /* Utils */,
 				99058E791F2BB60C00550F2A /* Controller */,
 				99058E5E1F2BAF2000550F2A /* ExtensionDelegate.swift */,
@@ -771,6 +774,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				17CD636A1E2BAC52004B9CB2 /* derschaulotse.html in Resources */,
+				99F82BAE1F3E2F77006B44BB /* watch.ckcomplication in Resources */,
 				17BBA07A1DA8F05E005EED67 /* LaunchScreen.storyboard in Resources */,
 				17BBA0771DA8F05E005EED67 /* Assets.xcassets in Resources */,
 				17CD63691E2BAC52004B9CB2 /* derschaulotse-Dateien in Resources */,
