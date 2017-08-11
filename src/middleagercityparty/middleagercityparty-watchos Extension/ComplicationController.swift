@@ -47,10 +47,36 @@ class ComplicationController: NSObject, CLKComplicationDataSource {
     }
     
     // MARK: - Placeholder Templates
-    
-    func getLocalizableSampleTemplate(for complication: CLKComplication, withHandler handler: @escaping (CLKComplicationTemplate?) -> Void) {
-        // This method will be called once per supported complication, and the results will be cached
-        handler(nil)
+       
+    func getLocalizableSampleTemplate(for complication: CLKComplication,
+                                      withHandler handler: @escaping (CLKComplicationTemplate?) -> Void)
+    {
+        print(complication.family)
+        
+        switch complication.family
+        {
+        case .circularSmall:
+            let circularSmallTemplate = CLKComplicationTemplateCircularSmallSimpleImage()
+            circularSmallTemplate.imageProvider = CLKImageProvider(onePieceImage: UIImage(named: "Complication/Circular")!)
+            handler(circularSmallTemplate)
+        case .utilitarianSmall:
+            let utilitarianSmallTemplate = CLKComplicationTemplateUtilitarianSmallFlat()
+            utilitarianSmallTemplate.imageProvider = CLKImageProvider(onePieceImage: UIImage(named: "Complication/Utilitarian")!)
+            utilitarianSmallTemplate.textProvider = CLKSimpleTextProvider(text: "Schaulotse")
+            handler(utilitarianSmallTemplate)
+        case .modularSmall:
+            let modularSmallTemplate = CLKComplicationTemplateModularSmallRingImage()
+            modularSmallTemplate.imageProvider = CLKImageProvider(onePieceImage: UIImage(named: "Complication/Modular")!)
+            handler(modularSmallTemplate)
+        case .modularLarge:
+            handler(nil)
+        case .utilitarianLarge:
+            let utilitarianLargeTemplate = CLKComplicationTemplateUtilitarianLargeFlat()
+            utilitarianLargeTemplate.imageProvider = CLKImageProvider(onePieceImage: UIImage(named: "Complication/UtilitarianLarge")!)
+            utilitarianLargeTemplate.textProvider = CLKSimpleTextProvider(text: "Schaulotse")
+            handler(utilitarianLargeTemplate)
+        default:
+            handler(nil)
+        }
     }
-    
 }
