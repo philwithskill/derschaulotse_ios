@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>middleagercityparty-watchos (Complication).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>middleagercityparty-watchos.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>middleagercityparty.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +33,11 @@
 			<true/>
 		</dict>
 		<key>17BBA08A1DA8F05E005EED67</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>99058E481F2BAF1F00550F2A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
